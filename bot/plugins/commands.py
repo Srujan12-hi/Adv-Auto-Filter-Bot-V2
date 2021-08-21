@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Dev', url="https://t.me/Sruja_12"
                                 )
                         ]
                     ]
@@ -47,13 +47,13 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
-    ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('Dev', url='https://t.me/Sruja_1'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/SOURCE_CODE_OF_FILE_STORE_BOT/2')
     ]]
+
+
+
+
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
