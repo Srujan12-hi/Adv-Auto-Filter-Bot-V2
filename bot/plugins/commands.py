@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Dev', url='https://t.me/Sruja_1'),
+        InlineKeyboardButton('Dev', url='https://t.me/Sruja_12'),
         InlineKeyboardButton('Source Code 🧾', url ='https://t.me/SOURCE_CODE_OF_FILE_STORE_BOT/2')
     ]]
 
