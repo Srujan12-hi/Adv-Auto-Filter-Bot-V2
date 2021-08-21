@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<b>
 
 I am A Auto Filter Bot made by Srujan
 
@@ -13,7 +13,7 @@ I search media from a given channel
 
 And I Work only For @Rkrishnaa
 
-</i>"""    
+</b>"""    
     
     HELP_TEXT = """
 Sorry I Work Only For @Rkrishnaa"""
