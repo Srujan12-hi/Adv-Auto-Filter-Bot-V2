@@ -16,7 +16,7 @@ And I Work only For @Rkrishnaa
 </i>"""    
     
     HELP_TEXT = """
-Sorry I Work Only For @Rkrishnaa
+Sorry I Work Only For @Rkrishnaa"""
 
 
 
