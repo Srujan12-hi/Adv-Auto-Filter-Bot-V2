@@ -5,7 +5,6 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-
 <b>
 I am A Auto Filter Bot made by Srujan
 
@@ -55,7 +54,9 @@ Sorry I can't Work for you. I Only work For @Rkrishnaa"""
 
 <b>➥ Language</b> : <code>Python3</code>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ Library</b> : <a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a>
 
-<b>➥ Source Code</b> : <i><a href="https://t.me/SOURCE_CODE_OF_FILE_STORE_BOT/2">Click Me</a></i>
+<b>➥ Source Code</b> : <a href="https://t.me/SOURCE_CODE_OF_FILE_STORE_BOT/2">Click Me</a>
+
+<b>➥ Credits</b> : @AlbertEinstein_TG 
 """
